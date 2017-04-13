@@ -1,0 +1,59 @@
+Dang Phan
+123456789
+Male
+03 13 1989
+Have an appoinment with Dr. Ian on December 12, 2015
+
+Brian Nghiem
+123123123
+Male
+01 01 1990
+Have an appoinment with Dr. Lee on December 13, 2015
+
+Tung Lee
+456123895
+Male
+02 02 1991
+Have an appoinment with Dr. Park on December 14, 2015
+
+Alex Nguyen
+123678123
+Male
+03 03 1992
+Have an appoinment with Dr. Nguyen on December 15, 2015
+
+Rose Smith
+678123654
+Female
+04 04 1999
+Have an appoinment with Dr. Ian on December 16, 2015
+
+Jennifer Onesto
+345654189
+Female
+05 05 1987
+Have an appoinment with Dr. Park on December 17, 2015
+
+Baby Baby
+671671871
+Female
+06 06 1985
+Have an appoinment with Dr. Lee on December 18, 2015
+
+Tony Teo
+561895714
+Male
+07 07 1991
+Have an appoinment with Dr. Nguyen on December 19, 2015
+
+Tina Bika
+561893781
+Female
+08 08 1978
+Have an appoinment with Dr. Park on December 20, 2015
+
+Pika Pikachu
+789341671
+Male
+09 09 2009
+Need to see Dr. Ted for updating the electric-shock system
